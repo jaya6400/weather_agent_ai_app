@@ -17,7 +17,8 @@ A chain-of-thought AI agent powered by Google Gemini that can fetch weather info
 - Google Gemini API key
 
 ## Screenshot
-- 
+- <Image width="671" height="335" alt="Capture" src="https://github.com/user-attachments/assets/8486384e-3a42-4d2e-bf1c-00881516f886" />
+
 
 ## Installation
 
